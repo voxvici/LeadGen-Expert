@@ -30,7 +30,7 @@ Currently extracts nine leads per search.
 
 [BeautifulSoup](https://pypi.org/project/BeautifulSoup/) >= 3.2.2
 
-googlsearch (local package) >= 2.0.2
+googlesearch (local package) >= 2.0.2
 
 ## Future
 
