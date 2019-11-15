@@ -6,6 +6,8 @@ Program created in PyQt and Python 3.6
 
 ## Features
 
+Currently extracts nine leads per search.
+
 1. Extract site URL
 
 2. Extract title of site(company)
