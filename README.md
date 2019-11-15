@@ -30,8 +30,6 @@ Program created in PyQt and Python 3.6
 
 googlsearch (local package) >= 2.0.2
 
-search_engines (local package)
-
 ## Future
 
 1. Choose number of leads
