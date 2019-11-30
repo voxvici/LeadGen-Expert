@@ -12,7 +12,6 @@ import requests
 
 
 class Ui_MainWindow(object):
-
     def setupUi(self, MainWindow):
 
         MainWindow.setObjectName("MainWindow")
@@ -204,7 +203,6 @@ class Ui_MainWindow(object):
         QtCore.QMetaObject.connectSlotsByName(MainWindow)
 
     def retranslateUi(self, MainWindow):
-
         _translate = QtCore.QCoreApplication.translate
         MainWindow.setWindowTitle(_translate("MainWindow", "Lead Generation Expert"))
         self.mainInput.setText(_translate("MainWindow", "Your Industry"))
@@ -220,7 +218,6 @@ class Ui_MainWindow(object):
         self.frame.hide()
 
     def begin_search(self):
-
         self.beginProgress = random.randint(1,31)
         self.progressBar.setValue(self.beginProgress)
 
