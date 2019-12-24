@@ -32,13 +32,9 @@ Currently extracts nine leads per search.
 
 googlesearch (local package) >= 2.0.2
 
-## Future
+## Future Updates
 
 1. Choose number of leads
 
 2. Choose language
-
-## Run
-
-![lead generation expert](https://i.ibb.co/GtG53Y8/lge.jpg)
 
