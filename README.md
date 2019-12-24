@@ -34,7 +34,7 @@ googlesearch (local package) >= 2.0.2
 
 ## Future Updates
 
-1. Choose number of leads
+Choose number of leads
 
-2. Choose language
+Choose language
 
