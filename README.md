@@ -1,6 +1,6 @@
 # LeadGen Expert
 
-Program to help you generate leads from any industry from your country for sales team.
+Program to help you generate leads from any industry for sales team.
 
 Program created in PyQt and Python 3.6
 
